@@ -21,3 +21,4 @@ User-friendly folder structure on core files (will release core files soon)
 <img src="https://cdn.discordapp.com/attachments/491980024229134346/916631942416433152/unknown.png"></img>
 #### Notice
 You can not sell this after modifying,it is against the license of this repository.
+Join DİSCORD: https://discord.gg/A6WbefgX2S
